@@ -11,6 +11,15 @@ class Server
   }
   routes ()
   {
+    this.app.get( "/", ( req, res ) =>
+    {
+      res.json( {
+        url: {
+          productos: "/productos",
+          productoRandom: "/productoRandom",
+        },
+      } );
+    } );
     this.app.get( '/productos', async ( req, res ) =>
     {
       const getAll = await this.db.getAll()
