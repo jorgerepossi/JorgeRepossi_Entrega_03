@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Apple Watch Series 7",
+    "price": 70000,
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/watch-s7-digitalmat-gallery-2-202203_GEO_ES?wid=364&hei=333&fmt=png-alpha&.v=1646033515724",
+    "id": 1
+  },
+  {
+    "title": "iPhone 12",
+    "price": 15000,
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone12-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635178709000",
+    "id": 2
+  },
+  {
+    "title": "iMac de 24 pulgadas",
+    "price": 230000,
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac24-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186198000",
+    "id": 3
+  },
+  {
+    "title": "Apple TV 4K",
+    "price": 80000,
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/apple-tv-4k-hero-select-202104?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1619139498000",
+    "id": 4
+  },
+  {
+    "title": "iPhone 11",
+    "price": 15000,
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone12-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635178709000",
+    "id": 5
+  }
+]
